@@ -1,10 +1,10 @@
 const twitter = require('twitter');
 const fs = require('fs')
 const client = new twitter({
-    consumer_key: 'yv9ej7k0iCbAzzZ5kWvjnUNn7',
-    consumer_secret: 'fRSiLQam98ejBye0Ib597P9NwUcOqocC7lGA4GPjkAOAJAVuck',
-    access_token_key: '903220008943329280-RVtRdaZrjorIjCo4iByvzO0YgcobfjB',
-    access_token_secret: 'Y0Hs5nxyxMOTCAsZ31t1ckBkZXSv8fohFqJG7a4jMAGJu'
+    consumer_key: 'your consumer key',
+    consumer_secret: 'your consumer_secret',
+    access_token_key: 'your access token key',
+    access_token_secret: 'your acces token secret'
 });
 
 
